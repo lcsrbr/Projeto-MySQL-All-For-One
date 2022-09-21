@@ -1,16 +1,19 @@
-# 🚧 README em construção 🚧
+# Boas-vindas ao repositório do projeto MySQL-All-For-One!
 
-<!-- Olá, Tryber!
+<strong>Projeto realizando durante o curso de _Desenvolvimento Web da Trybe_.</strong>
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Para acessar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, me envie uma _[mensagem](https://portfolio-bay-omega-17.vercel.app/#contact)_ :)
 
-É essencial que você preencha esse documento por conta própria, ok?
+# Orientações
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+  <summary><strong>‼️ Para acessar o projeto: </strong></summary><br />
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+  1. Clone o repositório
 
--->
+  - Use o comando: `git clone git@github.com:lcsrbr/Projeto-MySQL-All-For-One.git`.
+
+  2. Instale as dependências
+
+  - `npm install`.
+  
+  # [Outros Projetos](https://portfolio-bay-omega-17.vercel.app/#projetos)
